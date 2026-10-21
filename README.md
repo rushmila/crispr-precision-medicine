@@ -2,6 +2,8 @@
 
 **Author:** Rushmila Islam (rushmila.islam@gmail.com)
 
+This repository hosts a review paper on how artificial intelligence is advancing CRISPR-based genome editing for precision medicine. It covers AI-driven guide RNA design, off-target prediction, delivery optimization, and the ethical and clinical challenges of bringing personalized gene therapies to patients.
+
 📄 [Read the paper (PDF)](CRISPR%20in%20Precision%20Medicine--Transforming%20Gene%20Editing%20with%20Artificial%20Intelligence-Rushmila_Islam.pdf)
 
 ## Abstract
